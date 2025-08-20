@@ -1,0 +1,12 @@
+# File Tool Requirements
+# Versiyonlar stabilite için sabitlenmiştir
+
+# Temel kütüphaneler
+colorama==0.4.6
+psutil==5.9.5
+
+# Geliştirme ve test kütüphaneleri 
+# pytest==7.4.0
+# pylint==2.17.5
+# black==23.7.0
+# mypy==1.4.1
