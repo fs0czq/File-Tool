@@ -417,7 +417,7 @@ class FileFinder:
         input(Fore.YELLOW + Style.BRIGHT + "\n[+] Devam etmek için Enter'a basın..." + Fore.RESET)
 
 class FileDeleter:
-    """Dosya silme sınıfı - Geliştirilmiş versiyon"""
+    """Dosya silme sınıfı"""
     
     @staticmethod
     def safe_delete_file(file_path: str) -> bool:
